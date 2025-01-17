@@ -4,8 +4,7 @@ public class Person {
     private int age;
     private String address;
 
-    // Some changes to create conflict
-    // Some new changes by me to create conflict
+    // Some new changes
 
     // Constructor for Person class
     public Person(String name, int age, String address) {
