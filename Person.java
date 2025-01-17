@@ -4,8 +4,6 @@ public class Person {
     private int age;
     private String address;
 
-    // Some new changes
-
     // Constructor for Person class
     public Person(String name, int age, String address) {
         this.name = name;
