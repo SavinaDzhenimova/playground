@@ -1,5 +1,5 @@
 public class Person {
-    // Attributes
+    // Attributes for Person class
     private String name;
     private int age;
     private String address;
