@@ -59,7 +59,7 @@ public class Person {
                 '}';
     }
 
-    // Main method for testing
+    // Main method
     public static void main(String[] args) {
         // Create a Person object using the parameterized constructor
         Person person1 = new Person("Alice", 25, "123 Main St");
