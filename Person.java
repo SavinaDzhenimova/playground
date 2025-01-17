@@ -15,7 +15,7 @@ public class Person {
 
     // Default Constructor
     public Person() {
-        this.name = "Savina";
+        this.name = "Dzhenimova";
         this.age = 0;
         this.address = "Unknown";
     }
